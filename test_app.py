@@ -1,6 +1,6 @@
 
 
-import pytest
+pytest
 from app import add, subtract
 
 

@@ -1,6 +1,3 @@
-
-
-
 from app import add, subtract
 
 
